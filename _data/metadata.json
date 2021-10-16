@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "sQzxY's Blog!",
+  "url": "https://sqz-xy.netlify.app/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Writing about my various journeys and projects through the programming world!",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Writing about my various journeys and projects through the programming world!",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://sqz-xy.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "sQzxY | Tom",
+    "email": "tblakebeet@gmail.com",
+    "url": "https://sqz-xy.netlify.app/"
   }
 }
